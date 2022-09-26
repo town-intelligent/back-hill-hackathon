@@ -249,8 +249,9 @@ section {
 .header .logo h1 {
   font-size: 32px;
   font-weight: 300;
-  color: var(--color-secondary);
+  color: white;#var(--color-secondary);
   font-family: var(--font-secondary);
+  background-color: black;
 }
 
 .header .logo h1 span {
